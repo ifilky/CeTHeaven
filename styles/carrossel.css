@@ -90,6 +90,7 @@
     .swiper-button-next {
         display: block;
         top: 60%;
+        color: #000000;
     }
 
     .card {
